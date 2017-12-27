@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  BitcoinTicker
+//  BitcoinApp
 //
 //  
 //

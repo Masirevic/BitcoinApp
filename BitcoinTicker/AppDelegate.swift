@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  BitcoinTicker
+//  BitcoinApp
 //
 //  
 
